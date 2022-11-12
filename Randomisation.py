@@ -8,7 +8,7 @@ position = input("Where do you want to put the treasure? ")
 # 🚨 Don't change the code above 👆
 
 #Write your code below this row 👇
-print("github test")
+print("github test2222")
 
 
 
