@@ -8,11 +8,7 @@ position = input("Where do you want to put the treasure? ")
 # 🚨 Don't change the code above 👆
 
 #Write your code below this row 👇
-position = int(position)
-row_len = len(map)
-map[row_len] = "X"
-l
-print(map)
+print("github test")
 
 
 
