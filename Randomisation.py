@@ -11,7 +11,7 @@ position = input("Where do you want to put the treasure? ")
 position = int(position)
 row_len = len(map)
 map[row_len] = "X"
-
+l
 print(map)
 
 
